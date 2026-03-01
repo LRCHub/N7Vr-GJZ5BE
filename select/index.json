@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Bukan Pujangga",
+  "base_artist": "Base Jam",
+  "createdAt": "2026-03-01T15:59:57.399686Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bukan Pujangga",
+      "artist": "Base Jam",
+      "has_synced": true,
+      "path": "select/01_Bukan_Pujangga_Base_Jam.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bukan Pujangga",
+      "artist": "Base Jam",
+      "has_synced": true,
+      "path": "select/02_Bukan_Pujangga_Base_Jam.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bukan Pujangga ( 1998 )",
+      "artist": "Base Jam",
+      "has_synced": true,
+      "path": "select/03_Bukan_Pujangga_(_1998_)_Base_Jam.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bukan Pujangga (90s Indonesian Hits Got Covered) (Pop Punk)",
+      "artist": "Ricky Marendy",
+      "has_synced": true,
+      "path": "select/04_Bukan_Pujangga_(90s_Indonesian_Hits_Got_Covered)_(Pop_Punk)_Ricky_Marendy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bukan Pujangga",
+      "artist": "Base Jam",
+      "has_synced": true,
+      "path": "select/05_Bukan_Pujangga_Base_Jam.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bukan Pujangga",
+      "artist": "Base Jam",
+      "has_synced": false,
+      "path": "select/pl_01_Bukan_Pujangga_Base_Jam.txt"
+    }
+  ]
+}
